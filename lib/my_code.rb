@@ -9,3 +9,6 @@ def map(array)
   new
 end
 
+def reduce(array, starting_value = '')
+  
+end
