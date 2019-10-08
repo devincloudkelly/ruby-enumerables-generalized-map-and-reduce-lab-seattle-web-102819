@@ -16,5 +16,6 @@ def reduce(array, starting_value = nil)
   else
     num1 = array[0]
     i = 1
-    
+  end
+  
 end
