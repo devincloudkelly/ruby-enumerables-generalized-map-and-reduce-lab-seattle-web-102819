@@ -11,5 +11,7 @@ end
 
 def reduce(array, starting_value = nil)
   new = []
+  i = 0
+  
   
 end
